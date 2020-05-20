@@ -15,7 +15,9 @@
 ## Visulization
 Our demo for wifi based 2D human pose estimation
 
-
+Proposed Model | Baseline
+---|---
+![image](https://github.com/fingerk28/Multi-rate-Directed-T-GCN/blob/master/image/proposed_model_update.gif)|![image](https://github.com/fingerk28/Multi-rate-Directed-T-GCN/blob/master/image/baseline.gif)
 
 
 ## Result
