@@ -21,10 +21,11 @@ Proposed Model | Baseline
 
 
 ## Result
-The PCK(Percentage of Correct Keypoint) of provided models are shown here:
+The PCK(Percentage of Correct Keypoint) and MPJPE(Mean Per Joint Position Error) of provided models are shown here:
 | Model|**Multi-rate-Directed-T-GCN** (Ours)|Baseline[1]|WISPPN[2]|
 | :------| :------: | :------: | :------: |
 |PCK@20|  **82.22**    | 77.06   |  69.82   |
+|MPJPE|  **??.??**    | 41.71   |  ??.??   |
 
 [1] Fei Wang, Stanislav Panev, Ziyi Dai, Jinsong Han, and Dong Huang. 2019. Canwifi estimate person pose?arXiv preprint arXiv:1904.00277(2019).
 
