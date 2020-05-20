@@ -11,3 +11,10 @@
 ![image](https://github.com/fingerk28/Multi-rate-Directed-T-GCN/blob/master/image/Architecture.png)
 
 ## Visulization
+***
+
+Proposed Model | Baseline
+---|---
+![image](https://github.com/fingerk28/Multi-rate-Directed-T-GCN/blob/master/image/proposed_model.png)|![image](https://github.com/fingerk28/Multi-rate-Directed-T-GCN/blob/master/image/baseline.png)
+
+***
