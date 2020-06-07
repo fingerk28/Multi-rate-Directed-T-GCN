@@ -21,7 +21,7 @@ Proposed Model | Baseline
 
 
 ## Result
-The PCK(Percentage of Correct Keypoint) and MPJPE(Mean Per Joint Position Error) of provided models are shown here:
+The PCK@20(Percentage of Correct Keypoint)of provided models are shown here:
 |Method|single-person|multi-people|
 | :------| :------: | :------: |
 |WiSPPN[1]|  69.82%    | X   |
