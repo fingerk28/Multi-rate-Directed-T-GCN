@@ -22,9 +22,11 @@ Proposed Model | Baseline
 
 ## Result
 The PCK(Percentage of Correct Keypoint) and MPJPE(Mean Per Joint Position Error) of provided models are shown here:
-| Model|**Multi-rate-Directed-T-GCN** (Ours)|Person In Wifi[1]|WISPPN[2]|
-| :------| :------: | :------: | :------: |
-|PCK@20|  **82.22**    | 77.06   |  69.82   |
+|Method|single-person|multi-people|
+| :------| :------: | :------: |
+|WiSPPN[1]|  69.82%    | X   |
+|person in Wifi[2] | 77.06% | 61.58%|
+|**MDT-GCN(ours)**|**82.26%**|**71.58%**|
 
 [1] Fei Wang, Stanislav Panev, Ziyi Dai, Jinsong Han, and Dong Huang. 2019. Canwifi estimate person pose?arXiv preprint arXiv:1904.00277(2019).
 
